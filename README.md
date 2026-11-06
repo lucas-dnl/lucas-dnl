@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Lucas Daniel tenho 17 anos, sou natural do Rio Grande do Norte, atualmente estudo no SESI/SENAI e sou competidor da FRC na equipe SESI/SENAI Stardust #9200, estou fazendo atualmente os técnicos de eletroeletrônica, mecatrônica e dev de sistemas, tenho inglês no nível A2, as minhas maiores  paixões são a robótica e a automação, meu instagram profissional é o https://www.instagram.com/lucas___dnl/?utm_source=ig_web_button_share_sheet
+Me chamo Lucas Daniel tenho 17 anos, sou natural do Rio Grande do Norte, atualmente estudo no SESI/SENAI e sou competidor da FRC na equipe SESI/SENAI Stardust #9200, estou fazendo atualmente os técnicos de eletroeletrônica, mecatrônica e dev de sistemas, tenho inglês no nível A2, as minhas maiores  paixões são a robótica e a automação, meu instagram profissional é o "[lucas__dnl] (https://www.instagram.com/lucas___dnl/?utm_source=ig_web_button_share_sheet)"
 
 <p align="left">
     <a href="https://github.com/lucas-dnl?tab=repositories&sort=stargazers">
