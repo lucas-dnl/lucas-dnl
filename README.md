@@ -66,13 +66,21 @@ Meu Instagram profissional: [@_lucasmaker](https://www.instagram.com/_lucasmaker
 ### 📊 Estatísticas
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=lucas-dnl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=lucas-dnl&show_icons=true&theme=default&include_all_commits=true&locale=pt-br"/>
-        <img height="180" width="49%" alt="Estatísticas do GitHub" src="https://github-stats-extended.vercel.app/api?username=lucas-dnl&show_icons=true&theme=default&include_all_commits=true&locale=pt-br"/>
-    </picture><picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-dnl&theme=tokyonight&layout=compact&langs_count=9"/>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-dnl&theme=default&layout=compact&langs_count=9"/>
-        <img height="180" width="49%" alt="Linguagens mais utilizadas" src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-dnl&theme=default&layout=compact&langs_count=9"/>
-    </picture>
+    <a href="https://github.com/lucas-dnl">
+        <img
+            height="180"
+            width="49%"
+            align="center"
+            alt="Estatísticas do GitHub"
+            src="https://github-stats-extended.vercel.app/api?username=lucas-dnl&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"
+        />
+    </a><a href="https://github.com/lucas-dnl">
+        <img
+            height="180"
+            width="49%"
+            align="center"
+            alt="Linguagens mais utilizadas"
+            src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucas-dnl&theme=tokyonight&layout=compact&langs_count=9&card_width=450&hide_border=true"
+        />
+    </a>
 </div>
