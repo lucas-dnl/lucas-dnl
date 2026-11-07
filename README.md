@@ -1,4 +1,5 @@
 # Lucas Daniel
+**`Programação | Automação | Mecatrônica | Eletrônica  `**
 **` Programação `**
 **` Automação `**
 **` Mecatrônica `**
