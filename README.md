@@ -1,26 +1,19 @@
 # Lucas Daniel
-**`Programação | Automação | Mecatrônica | Eletrônica  `**
 
-Me chamo Lucas Daniel, tenho 17 anos e sou natural do Rio Grande do Norte. Atualmente estudo no SESI/SENAI e sou competidor da FRC na equipe SESI/SENAI Stardust #9200.
+**`Programação | Automação | Mecatrônica | Eletrônica`**
 
-Estou cursando Eletroeletrônica, Mecatrônica e Desenvolvimento de Sistemas. Tenho inglês nível A2 e minhas maiores paixões são robótica e automação.
+Sou Lucas Daniel, tenho 17 anos e sou natural do Rio Grande do Norte. Atualmente, estudo no SESI/SENAI e participo da FIRST Robotics Competition (FRC), integrando a equipe SESI/SENAI Stardust #9200.
+
+Minha formação técnica abrange Eletroeletrônica, Mecatrônica e Desenvolvimento de Sistemas. Tenho inglês nível A2 e interesse no desenvolvimento de soluções envolvendo tecnologia, robótica e automação.
 
 Meu Instagram profissional: [@_lucasmaker](https://www.instagram.com/_lucasmaker/).
 
 <p align="left">
     <a href="https://github.com/lucas-dnl?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/lucas-dnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+        <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/lucas-dnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/>
     </a>
     <a href="https://github.com/lucas-dnl?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/lucas-dnl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/lucas-dnl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"/>
     </a>
 </p>
 
@@ -37,7 +30,7 @@ Meu Instagram profissional: [@_lucasmaker](https://www.instagram.com/_lucasmaker
     <img alt="JavaScript" title="JavaScript" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
     <img alt="HTML5" title="HTML5" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
     <img alt="CSS3" title="CSS3" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-    <img alt="MySQL" title="MySQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+    <img alt="SQL" title="SQL" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
 </p>
 
 **Ferramentas de desenvolvimento**
@@ -46,7 +39,12 @@ Meu Instagram profissional: [@_lucasmaker](https://www.instagram.com/_lucasmaker
     <img alt="VS Code" title="VS Code" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img alt="Git" title="Git" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="GitHub" title="GitHub" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+    <img alt="Docker" title="Docker" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </p>
+
+**Banco de dados**
+
+- MySQL
 
 **Robótica e sistemas embarcados**
 
