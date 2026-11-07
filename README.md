@@ -6,7 +6,7 @@ Me chamo Lucas Daniel, tenho 17 anos e sou natural do Rio Grande do Norte. Atual
 
 Estou cursando Eletroeletrônica, Mecatrônica e Desenvolvimento de Sistemas. Tenho inglês nível A2 e minhas maiores paixões são robótica e automação.
 
-Meu Instagram profissional: [@lucas___dnl](https://www.instagram.com/lucas___dnl/).
+Meu Instagram profissional: [@_lucasmaker](https://www.instagram.com/_lucasmaker/).
 
 <p align="left">
     <a href="https://github.com/lucas-dnl?tab=repositories&sort=stargazers">
