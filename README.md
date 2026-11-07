@@ -1,9 +1,5 @@
 # Lucas Daniel
 **`Programação | Automação | Mecatrônica | Eletrônica  `**
-**` Programação `**
-**` Automação `**
-**` Mecatrônica `**
-**` Eletrônica `**
 
 Me chamo Lucas Daniel, tenho 17 anos e sou natural do Rio Grande do Norte. Atualmente estudo no SESI/SENAI e sou competidor da FRC na equipe SESI/SENAI Stardust #9200.
 
